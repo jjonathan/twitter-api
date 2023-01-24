@@ -17,5 +17,5 @@ I use the Serverless framework to help me deploying and have Infra as Code easil
 ## Progress
 
 ### TODOs
-- POST /tweet
-- GET /tweet
+- [ ] POST /tweet
+- [ ] GET /tweet

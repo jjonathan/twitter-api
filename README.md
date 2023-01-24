@@ -13,3 +13,9 @@ I use the Serverless framework to help me deploying and have Infra as Code easil
 
 - POST /tweet - Create a new tweet
 - GET /tweet - List all tweets
+
+## Progress
+
+### TODOs
+- POST /tweet
+- GET /tweet

@@ -17,5 +17,6 @@ I use the Serverless framework to help me deploying and have Infra as Code easil
 ## Progress
 
 ### TODOs
+- [ ] API Gateway
 - [ ] POST /tweet
 - [ ] GET /tweet
